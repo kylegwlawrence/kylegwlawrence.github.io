@@ -1,11 +1,11 @@
 # Site settings
 author: Kyle Lawrence
-title: 
+title: Data Science with Python and SQL
 header-img: img/home-bg.png
 email: kylegwlawrence@gmail.com
 copyright_name: Kyle Lawrence
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My Journey Through Flatiron's Self-Paced Data Science Program
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  kylegwlawrence
